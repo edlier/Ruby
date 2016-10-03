@@ -1,0 +1,45 @@
+<ul>
+	<li>
+<h4>Create a <span style="color: #ff0000;">ex1.rb</span> File first</h4>
+</li>
+	<li>
+<h4>Open PowerShell in Windows</h4>
+</li>
+</ul>
+<h4><span style="color: #0000ff;">Type In</span>
+[code language="ruby"] apple = 5 + 8 put "Hello! #{apple}" [/code]</h4>
+<h4><span style="color: #ff0000;">OUTPUT</span>
+[code language="ruby"]Hello! 13[/code]</h4>
+
+<h4><span style="color: #0000ff;">Type In</span>
+[code language="ruby"]
+Pie = "ABC"
+put "Hello! #{Pie}"
+[/code]</h4>
+<h4><span style="color: #ff0000;">OUTPUT</span>
+[code language="ruby"]
+Hello! ABC
+[/code]</h4>
+
+<!--more-->
+
+<h4><span style="color: #0000ff;">Type In</span></h4>
+<h4>
+[code language="ruby"] 
+put "Hello! #{5<=2}" 
+[/code]
+</h4>
+<h4><span style="color: #ff0000;">OUTPUT</span></h4>
+<h4>[code language="ruby"]
+Hello! false
+[/code]</h4>
+<h4><span style="color: #0000ff;">Type In</span></h4>
+<h4>
+[code language="ruby"] 
+put "Hello! #{5>=2}" 
+[/code]
+</h4>
+<h4><span style="color: #ff0000;">OUTPUT</span></h4>
+<h4>[code language="ruby"]
+Hello! true
+[/code]</h4>
