@@ -16,5 +16,5 @@
 		GHI
 [/code]</h4>
 </br></br></br></br></br></br>
-<a href="https://github.com/edlier/Ruby/blob/master/Variable%20%26%20Counting%20-%201.txt">THIS PAGE HTML</a>
+<a href="https://github.com/edlier/Ruby/blob/master/WordPressHTMLCode/Variable%20%26%20Counting%20-%203.txt">THIS PAGE HTML</a>
 </br></br>
