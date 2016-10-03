@@ -1,0 +1,20 @@
+<h4><span style="color: #0000ff;">
+		Type In
+	</span></h4>
+<h4>[code language="ruby"]
+		puts """
+		ABC
+		DEF
+		GHI
+		"""
+	[/code]</h4>
+<h4><span style="color: #ff0000;">
+		OUTPUT
+</span></h4><h4>[code language="ruby"]
+		ABC
+		DEF
+		GHI
+[/code]</h4>
+</br></br></br></br></br></br>
+<a href="https://github.com/edlier/Ruby/blob/master/Variable%20%26%20Counting%20-%201.txt">THIS PAGE HTML</a>
+</br></br>
