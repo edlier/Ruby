@@ -7,14 +7,17 @@
 </li>
 </ul>
 <h4><span style="color: #0000ff;">Type In</span>
-[code language="ruby"] apple = 5 + 8 put "Hello! #{apple}" [/code]</h4>
+[code language="ruby"] 
+apple = 5 + 8 
+puts "Hello! #{apple}" 
+[/code]</h4>
 <h4><span style="color: #ff0000;">OUTPUT</span>
 [code language="ruby"]Hello! 13[/code]</h4>
 
 <h4><span style="color: #0000ff;">Type In</span>
 [code language="ruby"]
 Pie = "ABC"
-put "Hello! #{Pie}"
+puts "Hello! #{Pie}"
 [/code]</h4>
 <h4><span style="color: #ff0000;">OUTPUT</span>
 [code language="ruby"]
@@ -26,7 +29,7 @@ Hello! ABC
 <h4><span style="color: #0000ff;">Type In</span></h4>
 <h4>
 [code language="ruby"] 
-put "Hello! #{5<=2}" 
+puts "Hello! #{5<=2}" 
 [/code]
 </h4>
 <h4><span style="color: #ff0000;">OUTPUT</span></h4>
@@ -36,10 +39,13 @@ Hello! false
 <h4><span style="color: #0000ff;">Type In</span></h4>
 <h4>
 [code language="ruby"] 
-put "Hello! #{5>=2}" 
+puts "Hello! #{5>=2}" 
 [/code]
 </h4>
 <h4><span style="color: #ff0000;">OUTPUT</span></h4>
 <h4>[code language="ruby"]
 Hello! true
 [/code]</h4>
+</br></br></br></br></br></br>
+<a href="https://github.com/edlier/Ruby/blob/master/Variable%20%26%20Counting%20-%201.txt">THIS PAGE HTML</a>
+</br></br>
