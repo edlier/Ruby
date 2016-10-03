@@ -1,4 +1,4 @@
-<ul>
+﻿<ul>
 	<li>
 <h4>Create a <span style="color: #ff0000;">ex1.rb</span> File first</h4>
 </li>
@@ -47,5 +47,5 @@ puts "Hello! #{5>=2}"
 Hello! true
 [/code]</h4>
 </br></br></br></br></br></br>
-<a href="https://github.com/edlier/Ruby/blob/master/Variable%20%26%20Counting%20-%201.txt">THIS PAGE HTML</a>
+<a href="https://github.com/edlier/Ruby/blob/master/WordPressHTMLCode/Variable%20%26%20Counting%20-%201.txt">THIS PAGE HTML</a>
 </br></br>
